@@ -5,7 +5,10 @@ public class Main {
 
 
 
+
+
         System.out.println("Merhaba Dunya");
+
 
     }
 }
