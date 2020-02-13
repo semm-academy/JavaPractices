@@ -2,9 +2,13 @@ package com.aktepe.mucahit;
 
 public class JavaInheritance {
 
+    protected  String brand;
+    protected  String model;
+    protected String engine;
 
-    public static void main(String[] args) {
-        System.out.println("Training will start soon");
-        System.out.println(" ");
+    public JavaInheritance(){
+
     }
+
+
 }
