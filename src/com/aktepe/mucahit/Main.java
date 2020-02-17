@@ -8,7 +8,6 @@ public class Main {
         myMath.examOfNumber(4);
         myEnglish.teacherName();
         myScience.graduated();
-        NewClass yeni = new NewClass();
 
 
 
